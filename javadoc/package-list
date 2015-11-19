@@ -81,6 +81,7 @@ br.gov.jfrj.siga.sr.enumeration
 br.gov.jfrj.siga.sr.interceptor
 br.gov.jfrj.siga.sr.model
 br.gov.jfrj.siga.sr.model.vo
+br.gov.jfrj.siga.sr.model.vo.adm
 br.gov.jfrj.siga.sr.notifiers
 br.gov.jfrj.siga.sr.reports
 br.gov.jfrj.siga.sr.util
