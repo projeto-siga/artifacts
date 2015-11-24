@@ -115,5 +115,6 @@ com.aryjr.nheengatu.openoffice.writer
 com.aryjr.nheengatu.pdf
 com.aryjr.nheengatu.testes
 com.aryjr.nheengatu.util
+com.google.enterprise.adaptor
 java.security.cert
 sun.security.provider.certpath
