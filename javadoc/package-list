@@ -40,6 +40,7 @@ br.gov.jfrj.siga.ex.gsa
 br.gov.jfrj.siga.ex.relatorio.dinamico.relatorios
 br.gov.jfrj.siga.ex.service
 br.gov.jfrj.siga.ex.service.impl
+br.gov.jfrj.siga.ex.sinc
 br.gov.jfrj.siga.ex.util
 br.gov.jfrj.siga.ex.vo
 br.gov.jfrj.siga.feature.converter.entity.vraptor
