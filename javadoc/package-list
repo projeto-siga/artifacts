@@ -46,6 +46,7 @@ br.gov.jfrj.siga.ex.vo
 br.gov.jfrj.siga.feature.converter.entity.vraptor
 br.gov.jfrj.siga.feature.entity.instantiator.vraptor
 br.gov.jfrj.siga.gc
+br.gov.jfrj.siga.gc.gsa
 br.gov.jfrj.siga.gc.model
 br.gov.jfrj.siga.gc.service
 br.gov.jfrj.siga.gc.service.impl
