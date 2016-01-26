@@ -107,6 +107,7 @@ br.gov.jfrj.siga.wf.servlet
 br.gov.jfrj.siga.wf.tag
 br.gov.jfrj.siga.wf.util
 br.gov.jfrj.siga.wf.vraptor
+br.jfrj.gov.siga.ldap.cli
 com.aryjr.nheengatu.css2
 com.aryjr.nheengatu.csv
 com.aryjr.nheengatu.document
