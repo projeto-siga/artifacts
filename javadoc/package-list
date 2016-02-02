@@ -65,7 +65,6 @@ br.gov.jfrj.siga.model.prop
 br.gov.jfrj.siga.model.prop.ext
 br.gov.jfrj.siga.parser
 br.gov.jfrj.siga.persistencia
-br.gov.jfrj.siga.persistencia.oracle
 br.gov.jfrj.siga.picketlink
 br.gov.jfrj.siga.picketlink.servlet
 br.gov.jfrj.siga.pp.dao
