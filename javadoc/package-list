@@ -16,6 +16,7 @@ br.gov.jfrj.siga.base.auditoria.filter
 br.gov.jfrj.siga.base.auditoria.hibernate.auditor
 br.gov.jfrj.siga.base.auditoria.hibernate.enums
 br.gov.jfrj.siga.base.auditoria.hibernate.util
+br.gov.jfrj.siga.base.log
 br.gov.jfrj.siga.base.util
 br.gov.jfrj.siga.cd
 br.gov.jfrj.siga.cd.ac
