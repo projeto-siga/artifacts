@@ -18,12 +18,8 @@ br.gov.jfrj.siga.base.auditoria.hibernate.enums
 br.gov.jfrj.siga.base.auditoria.hibernate.util
 br.gov.jfrj.siga.base.log
 br.gov.jfrj.siga.base.util
+br.gov.jfrj.siga.bluc.service
 br.gov.jfrj.siga.cd
-br.gov.jfrj.siga.cd.ac
-br.gov.jfrj.siga.cd.old
-br.gov.jfrj.siga.cd.service
-br.gov.jfrj.siga.cd.service.impl
-br.gov.jfrj.siga.cd.servlet
 br.gov.jfrj.siga.cp
 br.gov.jfrj.siga.cp.bl
 br.gov.jfrj.siga.cp.grupo
