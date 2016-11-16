@@ -30,6 +30,7 @@ br.gov.jfrj.siga.dp
 br.gov.jfrj.siga.dp.dao
 br.gov.jfrj.siga.dump
 br.gov.jfrj.siga.ex
+br.gov.jfrj.siga.ex.BIE
 br.gov.jfrj.siga.ex.bl
 br.gov.jfrj.siga.ex.bl.BIE
 br.gov.jfrj.siga.ex.ext
@@ -39,6 +40,7 @@ br.gov.jfrj.siga.ex.service
 br.gov.jfrj.siga.ex.service.impl
 br.gov.jfrj.siga.ex.sinc
 br.gov.jfrj.siga.ex.util
+br.gov.jfrj.siga.ex.util.BIE
 br.gov.jfrj.siga.ex.vo
 br.gov.jfrj.siga.feature.converter.entity.vraptor
 br.gov.jfrj.siga.feature.entity.instantiator.vraptor
