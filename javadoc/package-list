@@ -55,6 +55,8 @@ br.gov.jfrj.siga.gi.service
 br.gov.jfrj.siga.gi.service.impl
 br.gov.jfrj.siga.hibernate
 br.gov.jfrj.siga.hibernate.ext
+br.gov.jfrj.siga.idp.jwt
+br.gov.jfrj.siga.idp.jwt.servlet
 br.gov.jfrj.siga.integracao.ldap
 br.gov.jfrj.siga.jee
 br.gov.jfrj.siga.libs.rpc
